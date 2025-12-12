@@ -21,6 +21,8 @@ Feature extraction was also performed on Ubuntu because pcap parsing tools do no
 
 To ensure reproducibility, the fully processed dataset (CSV) is included in this repository as a ZIP file.
 
+The feature extraction was implemented in a small Python script running on Ubuntu (separate from the Jupyter notebook, since it depends on pcapML and raw pcap processing). More information is in the Final Report
+
 ## Included Dataset (Required for Running the Notebook)
 
 File included in this repo:
