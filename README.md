@@ -20,7 +20,8 @@ The data originates from the **netML Malware Detection benchmark**:
 https://nprint.github.io/benchmarks/malware_detection/netml_malware.html]
 
 ## Data location
-Data is too large and cannot be uploaded to github, so I provide the data in this google drive
+The dataset is too large to upload to GitHub.
+All required files for running the models in this repository are available here:
 
 link:
 (https://drive.google.com/drive/u/2/folders/13fpctT4XJyIqiH8UE7M5VvAAKfllon73)
